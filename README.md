@@ -8,7 +8,7 @@ Sitio estático optimizado para Vercel. No necesita base de datos ni dependencia
 2. En Vercel: **Add New → Project → Import Git Repository**.
 3. Framework preset: **Other**. No hace falta comando de build.
 4. Deploy.
-5. Si la URL final NO es `https://cesar-cubas-dev.vercel.app`, reemplaza esa URL en:
+5. Si la URL final NO es `https://desarrollador-software-peru.vercel.app`, reemplaza esa URL en:
    - `robots.txt`
    - `sitemap.xml`
    - las etiquetas `canonical`, `og:url` y JSON-LD de los HTML.

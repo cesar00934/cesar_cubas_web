@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://cesar-cubas-dev.vercel.app/sitemap.xml
+Sitemap: https://desarrollador-software-peru.vercel.app/sitemap.xml
